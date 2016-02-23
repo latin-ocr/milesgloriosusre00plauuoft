@@ -1,0 +1,49 @@
+( xiiv )
+
+ABBREVIATIONS.
+
+M = BCD ; see Introd. ΠΙ.
+
+ssa, Bb, Bc = B according to first hand, second, third.
+A = Ambrosian palimpsest.
+
+F = Codex Lipsiensis.
+
+Z = Editio princeps of George Merula, ¹472·
+
+ΒΧ = Brix, his ed. of 1875.
+
+Ed. = the present Editor.
+
+R = Ritschl; A (R) = A according to Ritschl.
+Gepp. = Geppei·t; A (Gepp.) z A according to Geppert.
+Stud. = Studemund ; A (Stud.) = A according to studemund.
+Fl. = Fleckeisen.
+
+Lamb. = Lambinus.
+
+Lind. = Lindemann.
+
+Cam. = Camerarius.
+
+Pl. = Plautus, Plautine.
+
+Lor. = Lorenz.
+
+Scut. = Scutan'us.
+
+Acid. = Acidalius.
+
+Bentl. = Bentley.
+
+Rhein. Mus. = Rheinisches Museum.
+
+F l. Jahrb. = Fleckeisen’s Jahrbuch.
+
+Opusc. = R’s Opuscula.
+
+N. Pl. Exc. = R's Neue Plautinische Excurse.
+Philol. = Philologus.
+
+Burs. Jahresb. = Bursian's Jahresbericht.
+
